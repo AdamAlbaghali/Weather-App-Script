@@ -3,7 +3,7 @@ import requests
 
 
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
-API_KEY = "ae9298c795385f3c9ac51f13491ed474"
+API_KEY = "YOUR API-KEY"
 CITY = input()
 
 def kelvin_to_celsius_fahrenheit(kelvin):
